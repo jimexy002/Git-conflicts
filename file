@@ -6,5 +6,4 @@ while seconds > 0:
     print(seconds)
     time.sleep(1)
     seconds -= 2
-
 print("Time up")
